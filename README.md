@@ -13,4 +13,9 @@
 ## Tecnicas de concurencia y pararelismo utilizas y porque.
 ### Utilizamos PUB/SUB con diferentes canales laberinto y sudoku utilizamos este metodo de programacion distrubuida ya que nos permite compartir los rompecabezas a varias personas de una forma segura y rapido utilizando el brocker RabbitMQ. Tambien utilizamos multiprocesos para generar y publicar laberintos esto es debido a que generar laberintos y sudokus y luego publicarlos sea muy lento asi que es mejor utilizar multiprocesos con una comunicacion de cola para generar y publicar rapidamente estos rompecabezas.
 
-![image](https://github.com/user-attachments/assets/ee0c157f-a509-4a8b-98f2-2fb87f5ff540)
+## Explicacion y visualizacion de como se ejecuta.
+### Lo primero que debes hacer es entrar y ejecutar el codigo de subscriptor ya que si no hay subscriptores entonces los publicadores no pueden mandar ningun rompecabezas a nadie.
+Luego debes insertar si quieres rompecabezas de laberinto o sudoku. Al escribir el comando te aparece lo que se puede observar en la primera foto si no escribes lo correcto te sale lo que aparece en la segunda foto
+![image](https://github.com/user-attachments/assets/03bca2e0-fa00-42f7-9c7e-0c9b8df4d038)      ![image](https://github.com/user-attachments/assets/ea50bb2b-dc3c-4f5f-b633-ed6f2642fe24)
+
+
