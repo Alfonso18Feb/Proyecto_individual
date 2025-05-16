@@ -27,4 +27,11 @@ Luego si estas en la carpeta donde estan los dos codigos. Abre una nueva termina
 Finalmente, 20minutos publicara 50 laberintos y sudokus y RabbitMQ los ira mandando a los subscriptores que se hayan subscrito.
 
 ![image](https://github.com/user-attachments/assets/4612684d-c58d-478d-9b03-e89a2acb7bc6)
-Como
+Como puedes ver en la foto de ariba aparece el tiempo que tardaron en resolverlo y tambien dificultad del sudoku o los pasos para llegar a la salida para el laberinto
+
+Ademas, te devuelven la solucion con matplot en rojo.
+![image](https://github.com/user-attachments/assets/4df6c32b-8b78-480e-a6c1-54835ee9a02d)  ![image](https://github.com/user-attachments/assets/6e5ca296-c783-47f8-a85d-ae7a78f3709c)
+
+Si se pierde la conexion con los publicadores te devuelve un error para prevenir cualquier causa maligna ya que utilizamos programacion distribuida. Devolviendo tiempo total y promedio. Esto se puede tambien conseguir si en la terminal haces Ctrl+C
+![image](https://github.com/user-attachments/assets/082223d8-37ed-46db-aa58-3d4ab6825d55)
+
