@@ -35,3 +35,5 @@ Ademas, te devuelven la solucion con matplot en rojo.
 Si se pierde la conexion con los publicadores te devuelve un error para prevenir cualquier causa maligna ya que utilizamos programacion distribuida. Devolviendo tiempo total y promedio. Esto se puede tambien conseguir si en la terminal haces Ctrl+C
 ![image](https://github.com/user-attachments/assets/082223d8-37ed-46db-aa58-3d4ab6825d55)
 
+## Informacion extra (contexto):
+### Nuestros subscriptores son muy rapidos y se estan preparando para un torneo se hara en proximos años
