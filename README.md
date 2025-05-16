@@ -18,4 +18,13 @@
 Luego debes insertar si quieres rompecabezas de laberinto o sudoku. Al escribir el comando te aparece lo que se puede observar en la primera foto si no escribes lo correcto te sale lo que aparece en la segunda foto
 ![image](https://github.com/user-attachments/assets/03bca2e0-fa00-42f7-9c7e-0c9b8df4d038)      ![image](https://github.com/user-attachments/assets/ea50bb2b-dc3c-4f5f-b633-ed6f2642fe24)
 
+Puedes Abrir las terminales que quieras y subscribirte a una de las dos laberinto o sudoku como esta visto en el la siguiente foto (es recomendable solo dos)
+![image](https://github.com/user-attachments/assets/689faa17-dedb-48a8-ae01-a820ffcb1738)
 
+Luego si estas en la carpeta donde estan los dos codigos. Abre una nueva terminal y escribe python 20minutos.py para ejecutarla.
+![image](https://github.com/user-attachments/assets/00e19eda-4012-4630-9fbc-15a521051260)
+
+Finalmente, 20minutos publicara 50 laberintos y sudokus y RabbitMQ los ira mandando a los subscriptores que se hayan subscrito.
+
+![image](https://github.com/user-attachments/assets/4612684d-c58d-478d-9b03-e89a2acb7bc6)
+Como
